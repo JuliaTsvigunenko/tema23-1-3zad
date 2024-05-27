@@ -1,0 +1,14 @@
+D:\27.05.2024\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\27.05.2024\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\27.05.2024\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\27.05.2024\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\27.05.2024\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\27.05.2024\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\27.05.2024\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\user\Desktop\tema23-1-3zad-main\27.05.2024\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\user\Desktop\tema23-1-3zad-main\27.05.2024\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\user\Desktop\tema23-1-3zad-main\27.05.2024\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\user\Desktop\tema23-1-3zad-main\27.05.2024\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tema23-1-3zad-main\27.05.2024\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tema23-1-3zad-main\27.05.2024\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\user\Desktop\tema23-1-3zad-main\27.05.2024\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
